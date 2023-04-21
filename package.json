@@ -1,0 +1,23 @@
+{
+  "name": "irc-translate-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forerosantiago/irc-translate-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forerosantiago/irc-translate-bot/issues"
+  },
+  "homepage": "https://github.com/forerosantiago/irc-translate-bot#readme",
+  "dependencies": {
+    "@iamtraction/google-translate": "^2.0.1",
+    "irc": "^0.5.2"
+  }
+}
