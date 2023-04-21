@@ -8,9 +8,17 @@ First, clone this repository and cd into it:
 git clone https://github.com/forerosantiago/irc-translate-bot && cd irc-translate-bot/
 ```
 
-Install the dependencies
+Install the dependencies:
 ```
 npm install
+```
+
+Edit the `config.json` file:
+```
+{
+    "nick": "Translator",
+    "server": "irc.planetofnix.com"
+}
 ```
 
 Execute it:
